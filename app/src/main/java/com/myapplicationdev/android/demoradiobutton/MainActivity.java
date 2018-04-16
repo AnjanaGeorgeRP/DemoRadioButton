@@ -10,6 +10,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
+    //just to check
     Button btnOk;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
